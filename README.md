@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @vaibhav5054
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-vaibhav5054/vaibhav5054 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 Hi, I’m Vaibhav Guliani
+- 👀 I’m interested in learning and sharing my knowledge with others.
+- 🌱 I’m currently learning Computer Programming
+- 💞️ I’m looking to collaborate on some projects involving coding
+- 📫 How to reach me: Email me at vaibhav.guliani@georgeborwn.ca
